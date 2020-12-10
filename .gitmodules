@@ -12,3 +12,8 @@
 	path = dynamic_cheque
 	url = git@github.com:xmarts/dynamic_cheque.git
 	branch = main
+
+[submodule "xmarts/ks-dashboard-ninja"]
+	path = xmarts/ks-dashboard-ninja
+	url = git@github.com:xmarts/ks-dashboard-ninja.git
+	branch = V13
