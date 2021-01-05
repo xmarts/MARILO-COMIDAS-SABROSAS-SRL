@@ -22,3 +22,8 @@
 	path = xmarts_dgii_reports
 	url = git@github.com:xmarts/xmarts_dgii_reports.git
 	branch = v2
+
+[submodule "product-bundle-pack"]
+	path = product-bundle-pack
+	url = git@github.com:xmarts/product-bundle-pack.git
+	branch = main
