@@ -20,3 +20,6 @@
 [submodule "full_accounting_kit"]
 	path = full_accounting_kit
 	url = git@github.com:xmarts/full_accounting_kit.git
+[submodule "purchase_discount13"]
+	path = purchase_discount13
+	url = git@github.com:xmarts/purchase_discount13.git
