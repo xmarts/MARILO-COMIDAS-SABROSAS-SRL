@@ -22,3 +22,6 @@
 	path = product-bundle-pack
 	url = git@github.com:xmarts/product-bundle-pack.git
 	branch = main
+[submodule "purchase_discount13"]
+	path = purchase_discount13
+	url = git@github.com:xmarts/purchase_discount13.git
