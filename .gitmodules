@@ -28,3 +28,6 @@
 [submodule "full_accounting_kit"]
 	path = full_accounting_kit
 	url = git@github.com:xmarts/full_accounting_kit.git
+[submodule "TDS_or_Withholding_Tax_Advanced_CV"]
+	path = TDS_or_Withholding_Tax_Advanced_CV
+	url = git@github.com:xmarts/TDS_or_Withholding_Tax_Advanced_CV.git
