@@ -23,3 +23,6 @@
 [submodule "purchase_discount13"]
 	path = purchase_discount13
 	url = git@github.com:xmarts/purchase_discount13.git
+[submodule "customer-credit-limit"]
+	path = customer-credit-limit
+	url = git@github.com:xmarts/customer-credit-limit.git
