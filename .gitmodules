@@ -40,3 +40,8 @@
 [submodule "mo-mass-produce"]
 	path = mo-mass-produce
 	url = git@github.com:xmarts/mo-mass-produce.git
+
+[submodule "xmarts/marilo_category_sales"]
+	path = xmarts/marilo_category_sales
+	url = git@github.com:xmarts/marilo_category_sales.git
+	branch = main
