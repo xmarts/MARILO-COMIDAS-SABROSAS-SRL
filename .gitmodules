@@ -29,3 +29,6 @@
 [submodule "mrp-secondary-uom"]
 	path = mrp-secondary-uom
 	url = git@github.com:xmarts/mrp-secondary-uom.git
+[submodule "mo-mass-produce"]
+	path = mo-mass-produce
+	url = git@github.com:xmarts/mo-mass-produce.git
