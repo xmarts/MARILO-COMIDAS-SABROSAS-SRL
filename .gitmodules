@@ -34,3 +34,6 @@
 [submodule "customer-credit-limit"]
 	path = customer-credit-limit
 	url = git@github.com:xmarts/customer-credit-limit.git
+[submodule "mrp-secondary-uom"]
+	path = mrp-secondary-uom
+	url = git@github.com:xmarts/mrp-secondary-uom.git
