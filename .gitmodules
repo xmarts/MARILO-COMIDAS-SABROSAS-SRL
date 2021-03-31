@@ -45,3 +45,6 @@
 	path = xmarts/marilo_category_sales
 	url = git@github.com:xmarts/marilo_category_sales.git
 	branch = main
+[submodule "hr-payroll-mxn"]
+	path = hr-payroll-mxn
+	url = git@github.com:xmarts/hr-payroll-mxn.git
